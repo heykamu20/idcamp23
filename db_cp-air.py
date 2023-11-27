@@ -10,7 +10,7 @@ cp_air = 'changping_air.csv'
 df = pd.read_csv(cp_air)
 
 # Judul Dashboard
-st.title("Dashboard Analisis Data Udara")
+st.title("Dashboard Analisis Data Udara ChangPing Station")
 
 # Sidebar untuk memilih jenis visualisasi
 jenis_visualisasi = st.sidebar.selectbox("Pilih Jenis Visualisasi", ["Scatter Plot 3D", "Korelasi PM2.5 dan PM10"])
