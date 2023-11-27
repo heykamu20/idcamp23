@@ -11,3 +11,8 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run db_cp-air.py
 ```
+
+## Link Streamlit
+```
+https://idcamp23-jeco.streamlit.app/
+```
